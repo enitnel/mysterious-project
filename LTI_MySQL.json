@@ -1,0 +1,41 @@
+[
+{"type":"header","version":"4.9.0.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"lti"},
+{"type":"table","name":"endings","database":"lti","data":
+[
+{"plot_id":"1","ending_id":"1","ending_text":"Now u kmow everything. This knowledge wiil not save u from death"},
+{"plot_id":"1","ending_id":"2","ending_text":"You are dead"},
+{"plot_id":"1","ending_id":"3","ending_text":"Congratulation, you leave the island. But can you live like you did before?"}
+]
+}
+,{"type":"table","name":"notes","database":"lti","data":
+[
+{"plot_id":"1","note_id":"1","note_coordinates_x":"23","note_coordinates_y":"24","note_text":"Hey Josh. I hope u didn't forget again about our meeting tomorrow"},
+{"plot_id":"2","note_id":"2","note_coordinates_x":"25","note_coordinates_y":"26","note_text":"Every day th esame thing. When will it end? Strange, I still don't feel hungry"}
+]
+}
+,{"type":"table","name":"person","database":"lti","data":
+[
+{"person_id":"1","person_name":"man","health_lvl":"100","stamina_lvl":"100"},
+{"person_id":"2","person_name":"woman","health_lvl":"80","stamina_lvl":"80"},
+{"person_id":"3","person_name":"kid","health_lvl":"50","stamina_lvl":"50"}
+]
+}
+,{"type":"table","name":"plot","database":"lti","data":
+[
+{"plot_id":"1","person_id":"2","plot_body":"You feel weird","count_of_days":"2"},
+{"plot_id":"2","person_id":"1","plot_body":"You woke up on the coast of the island. You don't remember how you got here","count_of_days":"1"},
+{"plot_id":"3","person_id":"3","plot_body":"It seems the island is uninhabited","count_of_days":"3"}
+]
+}
+,{"type":"table","name":"sound","database":"lti","data":
+[
+{"person_id":"1","plot_id":"1","sound_id":"1","sound_body":"man-breathe.wav"},
+{"person_id":"2","plot_id":"1","sound_id":"2","sound_body":"woman-breathe.wav"},
+{"person_id":"1","plot_id":"1","sound_id":"3","sound_body":"man-bounce.wav"},
+{"person_id":"2","plot_id":"1","sound_id":"4","sound_body":"woman-bounce.wav"},
+{"person_id":"1","plot_id":"1","sound_id":"5","sound_body":"man-moan.wav"},
+{"person_id":"2","plot_id":"1","sound_id":"6","sound_body":"woman-moan.wav"}
+]
+}
+]
