@@ -32,7 +32,7 @@ database management systems course project
 
 ## Подробная ER-диаграмма с описанием полей таблиц:
 
- [Dms coursework ER diagram](/Dms_cw_ER_diag.png)
+ ![Dms coursework ER diagram](/Dms_cw_ER_diag.png)
   
 ## Перечень основных операций с базами данных (для пользователя)
 
@@ -63,7 +63,7 @@ database management systems course project
  
  * MySQL
   
-  [DMySQL Architecure](MySQL_Architecure.jpg)
+ ![DMySQL Architecure](MySQL_Architecure.jpg)
   
 # Описание предлагаемых для использования инструментов, сторонних библиотек и программных средств, языка программирования
 
