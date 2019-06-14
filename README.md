@@ -66,11 +66,11 @@ database management systems course project
  
 * MongoDB
 
-![MongoDB scheme](/MMongoDB_scheme.png)   
+![MongoDB scheme](/MongoDB_scheme.png)   
 
 * SQLite
 
-![SQLite scheme](/SQLite_scheme.png)
+![SQLite scheme](/SQLIte_scheme.png)
 
 
 ## Перечень основных операций с базами данных (для пользователя)
