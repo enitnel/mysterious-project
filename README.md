@@ -41,19 +41,6 @@ database management systems course project
 * MySQL
 * SQLite
 
-
-## Группа, имена членов команды, их роли в разработке приложения
-
-ИВТ-363
-
-* Пивоваров Валентин - разработка игры, администрирование MySQL, менеджер проекта
-* Коновалов Роман - администрирование MongoDB
-
-ИВТ-364
-
-* Аксёнова Виктория - администрирование MS SQL/SQLite
-
-
 ## Подробная ER-диаграмма с описанием полей таблиц:
 
 ![Dms coursework ER diagram](/Dms_cw_ER_diag.png)
@@ -109,3 +96,4 @@ database management systems course project
 * XAMPP
 * Visual Studio
 * Sublime Text
+
